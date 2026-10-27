@@ -1,4 +1,4 @@
-# 🔤 Jayden's LINE Patches
+# 🔤 Sidepeek Lab LINE Patches
 
 A custom font patch for LINE. Compatible with Morphe.
 
